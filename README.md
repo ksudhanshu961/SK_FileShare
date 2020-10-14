@@ -37,6 +37,8 @@ Now, you can use this tool by typing **curl**
 
 11. Don't Close Console, it keeps track of Uploads live your file uploading upto 5GB
 
+Now, run -> copy link and share that link to your friend.
+
 
 
 
@@ -53,7 +55,7 @@ Now, you can use this tool by typing **curl**
 
 5. sudo python SK_FileShare.py
 
-Now, you can use this.
+Now, run -> copy link and share that link to your friend.
 
 Credits: File.io and Created by SK
 
