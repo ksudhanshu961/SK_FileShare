@@ -20,19 +20,22 @@ Python3 written program using a api and curl to share files upto 5GB in couple c
 
 3. goto SK_FileShare
 
-4. unzip curl-7.72.0_5-win64-mingw.zip
+4. Open Command Prompt In this Directory and then install requirements.txt
+   > pip install -r requirements.txt
 
-5. goto curl-7.72.0_5-win64-mingw Folder
+5. unzip curl-7.72.0_5-win64-mingw.zip
 
-6. goto bin Folder
+6. goto curl-7.72.0_5-win64-mingw Folder
 
-8. add curl.exe to Enviormental Variables Path.
+7. goto bin Folder
+
+9. add curl.exe to Enviormental Variables Path.
 
 Now, you can use this tool by typing **curl**
 
-9. Now you can run **SK_FileShare.py** by double clicking it.
+10. Now you can run **SK_FileShare.py** by double clicking it.
 
-10. Don't Close Console, it keeps track of Uploads live your file uploading upto 5GB
+11. Don't Close Console, it keeps track of Uploads live your file uploading upto 5GB
 
 
 
@@ -41,12 +44,14 @@ Now, you can use this tool by typing **curl**
 
 
 2. cd SK_FileShare
-  
-  > You can install curl on mac by using brew package manager and in Linux it comes pre-installed.
+   > You can install curl on mac by using brew package manager and in Linux it comes pre-installed.
 
-3. sudo chmod +x SK_FileShare.py
+3. Open **terminal** In this Directory and then install requirements.txt
+   > pip install -r requirements.txt
 
-4. sudo python SK_FileShare.py
+4. sudo chmod +x SK_FileShare.py
+
+5. sudo python SK_FileShare.py
 
 Now, you can use this.
 
