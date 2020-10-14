@@ -1,5 +1,5 @@
 # SK_FileShare
-Python3 written program using a api and curl to share files upto 5gb in couple click's ( GUI )
+Python3 written program using a api and curl to share files upto 5GB in couple click's on the Go. ( GUI )
 
 
 **You must have Python3 and Curl on your system**
@@ -10,6 +10,9 @@ Python3 written program using a api and curl to share files upto 5gb in couple c
 
     **To gitclone**
     > sudo git clone https://github.com/zWR417H/SK_FileShare.git
+    
+    **To Download**
+    > Click on code and then click on Download ZIP.
 
 # For Windows
 
