@@ -1,0 +1,5 @@
+platform
+easygui
+time
+os
+pyperclip
