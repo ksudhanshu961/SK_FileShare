@@ -16,21 +16,23 @@ Python3 written program using a api and curl to share files upto 5GB in couple c
 
 # For Windows
 
-2. goto SK_FileShare
+2. Unzip SK_FileShare ( If Downloaded ZIP )
 
-3. unzip curl-7.72.0_5-win64-mingw.zip
+3. goto SK_FileShare
 
-4. goto curl-7.72.0_5-win64-mingw Folder
+4. unzip curl-7.72.0_5-win64-mingw.zip
 
-5. goto bin Folder
+5. goto curl-7.72.0_5-win64-mingw Folder
 
-7. add curl.exe to Enviormental Variables Path.
+6. goto bin Folder
+
+8. add curl.exe to Enviormental Variables Path.
 
 Now, you can use this tool by typing **curl**
 
-8. Now you can run **SK_FileShare.py** by double clicking it.
+9. Now you can run **SK_FileShare.py** by double clicking it.
 
-9. Don't Close Console, it keeps track of Uploads live your file uploading upto 5GB
+10. Don't Close Console, it keeps track of Uploads live your file uploading upto 5GB
 
 
 
