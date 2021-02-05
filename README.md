@@ -9,7 +9,7 @@ This Program written in Python3, using a api and curl to share files upto 5GB in
 1. gitclone or download this tool.
 
     **To gitclone**
-    > sudo git clone https://github.com/zWR417H/SK_FileShare.git
+    > sudo git clone https://github.com/ksudhanshu961/SK_FileShare.git
     
     **To Download**
     > Click on code and then click on Download ZIP.
